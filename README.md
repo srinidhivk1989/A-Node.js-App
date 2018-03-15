@@ -3,8 +3,10 @@ The users are also able to remove the items from the list
 
 Technologies Used: 
 
-Node.js 
+Node.js
+
 Express 
+
 Mongo DB
 
 Deployment:
